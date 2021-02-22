@@ -42,7 +42,7 @@
     padding: 45px;
 }
 
-.option-div{
+.grid-div{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
